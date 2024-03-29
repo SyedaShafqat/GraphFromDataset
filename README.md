@@ -43,4 +43,7 @@ def main():
 # Execute main function
 if __name__ == "__main__":
     main()
-![Output Screenshot](https://github.com/SyedaShafqat/numpy/blob/master/OUTPUT.png)
+```
+## OUTPUT
+The image BELOW shows the subplots created by the script. Each subplot represents the distribution of a categorical variable
+![Output Screenshot](https://github.com/SyedaShafqat/GraphFromDataset/blob/master/OUTPUT.png)
