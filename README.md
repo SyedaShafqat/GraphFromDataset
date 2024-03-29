@@ -43,3 +43,4 @@ def main():
 # Execute main function
 if __name__ == "__main__":
     main()
+![Output Screenshot](https://github.com/SyedaShafqat/numpy/blob/master/OUTPUT.png)
